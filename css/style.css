@@ -22,7 +22,7 @@ body{
     padding:10px;
     border:solid white;
     border-radius: 5px;
-    background-color: rgba(250, 250, 250, 0.6);
+    background-color: rgba(250, 250, 250, 0.6); /* El 0.6 ultimo item es para la opacidad */
     
 }
 
